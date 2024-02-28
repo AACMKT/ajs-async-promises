@@ -1,5 +1,8 @@
 # Implementation of async code (built on promise --> .then chains) and its testing
 
+---
+[![Build status](https://ci.appveyor.com/api/projects/status/80i12qastt1u3pot?svg=true)](https://ci.appveyor.com/project/AACMKT/ajs-async-promises)
+
 
 ### Описание
 
