@@ -1,6 +1,6 @@
 import gameSave from '../app';
 
-test('', () => gameSave().then((data) => expect(data).toEqual({
+test('app resolved test', () => gameSave().then((data) => expect(data).toEqual({
   id: 9,
   created: 1546300800,
   userInfo: {
